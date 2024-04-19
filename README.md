@@ -1,10 +1,8 @@
-Certainly! Here's a template for the README file for your Android app development project:
-
 ---
 
 # i-PACT Conference App
 
-![i-PACT Conference Logo](<link to logo image>)
+Website: <https://vit.ac.in/ipact/>
 
 This Android application was developed for the 4th IEEE International Conference on "Innovations in Power & Advanced Computing Technologies" (i-PACT2023) hosted by SELECT School of VIT Vellore. The app serves as a comprehensive information hub for conference participants, providing easy access to event details, schedules, speakers, and more.
 
@@ -20,9 +18,13 @@ This Android application was developed for the 4th IEEE International Conference
 ## Screenshots
 
 <https://i.ibb.co/LvZn2dz/Screenshot-20240419-211606-i-PACT.png>
+
 <https://i.ibb.co/BzP2SSg/Screenshot-20240419-211839-i-PACT.png>
+
 <https://i.ibb.co/2vQJ0qq/Screenshot-20240419-211928-i-PACT.png>
+
 <https://i.ibb.co/kg3zWxX/Screenshot-20240419-211946-i-PACT.png>
+
 <https://i.ibb.co/8NsQcPf/Screenshot-20240419-212042-i-PACT.png>
 <!-- Add additional screenshots as needed -->
 
