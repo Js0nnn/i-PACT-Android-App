@@ -54,5 +54,3 @@ This Android application was developed for the 4th IEEE International Conference
 - You can download the current app from [Google Play Store](https://play.google.com/store/apps/details?id=com.ipact.ipact_23&pcampaignid=web_share).
 
 ---
-
-Let me know if you need any more adjustments or if there's anything else I can assist you with!
