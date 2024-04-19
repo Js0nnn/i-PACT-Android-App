@@ -20,7 +20,7 @@ This Android application was developed for the 4th IEEE International Conference
 ## Screenshots
 
 - ![Screenshot 1](https://i.ibb.co/LvZn2dz/Screenshot-20240419-211606-i-PACT.png)
-- ![Screenshot 2](https://i.ibb.co/BzP2SSg/Screenshot-20240419-211839-i-PACT.png)
+- ![Screenshot 2](https://i.ibb.co/8NsQcPf/Screenshot-20240419-212042-i-PACT.png)
 - ![Screenshot 3](https://i.ibb.co/2vQJ0qq/Screenshot-20240419-211928-i-PACT.png)
 - ![Screenshot 4](https://i.ibb.co/kg3zWxX/Screenshot-20240419-211946-i-PACT.png)
 - ![Screenshot 5](https://i.ibb.co/8NsQcPf/Screenshot-20240419-212042-i-PACT.png)
