@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">i-PACT</string>
+    <string name="title_activity_navigation_menu">NavigationMenu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="useremail">useremail@email.com\n</string>
+    <string name="username">User name</string>
+    <string name="universiti_malaya">Universiti Malaya</string>
+    <string name="vit">Vellore Institute of Technology</string>
+    <string name="ipact">i-PACT 2023</string>
+    <string name="about_um">The Universiti Malaya (UM) is a public research university located in Kuala Lumpur, Malaysia. It is one of the top 100 universities in the world. It is also the oldest university in Malaysia and is the highest ranking Malaysian institution of higher education according to several international ranking agencies. The university has graduated two prime ministers of Malaysia, and other political, business, and cultural figures of national prominence. The predecessor of the university, King Edward VII College of Medicine, was established on 28 September 1905 in Singapore, then a territory of the British Empire. In October 1949, the merger of the King Edward VII College of Medicine and Raffles College created the university. Rapid growth during its first decade caused the university to organize as two autonomous divisions on 15 January 1959, one located in Singapore and the other in Kuala Lumpur. In 1960, the government of Malaysia indicated that these two divisions should become autonomous and separate national universities. One branch was located in Singapore, later becoming the National University of Singapore after the independence of Singapore from Malaysia, and the other branch was located in Kuala Lumpur, retaining the name Universiti Malaya. Legislation was passed in 1961 and the Universiti Malaya was established on 1 January 1962. In 2012, UM was granted autonomy by the Ministry of Higher Education.</string>
+    <string name="vit_string">Vellore Institute of Technology(VIT) was founded in 1984 as Vellore Engineering College by the Chancellor, Dr. G. Viswanathan. VIT attracts students from the all the states of India and more than 51 different countries because of its academic excellence. VIT has introduced many innovations in academic processes which adds value to every student. FFCS (Fully Flexible Credit System), PBL (Project Based Learning) for better learning, fully digitized academic portals that assist students in equipping which kindles the interest and the curiosity of students, which moulds them to be better problem solver, 8th module in every subject being handled by industrial experts,making the students contextualize the concepts they study in the classroom, are a few of the innovations that VIT has introduced.</string>
+    <string name="ipact_string"><![CDATA[i-PACT is jointly organized by Universiti Malaya (UM), Kuala Lumpur, Malaysia and Vellore Institute of Technology (VIT), Vellore, India, technically co-sponsored by Malaysia Section PES Chapter (IEEE Power and Energy Society). The focus of the conference is to provide a unique platform for exchange of ideas and synergy among researchers, academicians, industrial experts and entrepreneurs across the globe in a gamut of divergent engineering and technology disciples. State of the art innovations in power and advanced computing technologies including latest research trends and developments in emerging areas such as Smart and micro grids, Electric Vehicles, Automatic Control & Computing Technologies in Green Commercial Buildings, Molecular Imaging, Smart Photonic Systems, Cognitive Computing etc are planned to be deliberated during the conference. All the accepted and registered papers will be recommended to IEEE for publication in IEEE Digital Explore Library.]]></string>
+    <string name="read_more">Read more...</string>
+    <string name="more_details">More Details</string>
+    <string name="aznan">Dr. Aznan Ezraie Bin Ariffin</string>
+    <string name="nasrudin">Prof. Ir. Dr. Nasrudin Abd Rahim</string>
+    <string name="in_ho">Prof. Dr. In-Ho Ra</string>
+    <string name="in_ho_details">School of Computer, Information and Communication Engineering, Kunsan National University</string>
+    <string name="farrag">Prof. Dr. Mohamed Emad Farrag (Emad)</string>
+    <string name="farrag_details">Department of Electrical and Electronic Engineering, Glasgow Caledonian University, Glasgow, UK</string>
+</resources>

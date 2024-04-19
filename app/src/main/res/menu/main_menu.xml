@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/home_icon"/>
+        <item
+            android:id="@+id/nav_about"
+            android:title="About"
+            android:icon="@drawable/about_icon"/>
+        <item
+        android:id="@+id/nav_sponsor"
+        android:title="Sponsors"
+        android:icon="@drawable/sponsor_icon"/>
+        <item
+            android:id="@+id/nav_speakers"
+            android:title="Speakers"
+            android:icon="@drawable/speakers_icon"/>
+
+    </group>
+
+    <item android:title="Conference">
+        <menu>
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/nav_schedule"
+                    android:title="Schedule"
+                    android:icon="@drawable/schedule_icon"/>
+
+                <item
+                    android:id="@+id/nav_allPapers"
+                    android:title="Papers"
+                    android:icon="@drawable/allpapers_icon"/>
+
+                <item
+                    android:id="@+id/nav_favourites"
+                    android:title="Favourites"
+                    android:icon="@drawable/fav_icon"/>
+
+            </group>
+        </menu>
+    </item>
+
+
+
+
+<group>
+    <item android:title="Team i-PACT">
+        <menu>
+            <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_committee"
+                android:title="Committee"
+                android:icon="@drawable/share_icon"/>
+            <item
+                android:id="@+id/nav_contact"
+                android:title="Contact Us"
+                android:icon="@drawable/contact_icon"/>
+            </group>
+
+        </menu>
+    </item>
+</group>
+
+
+    <item
+        android:title=""
+        android:enabled="false"/>
+
+    <item
+        android:id="@+id/nav_logout"
+        android:title="Logout"
+        android:icon="@drawable/logout_icon"/>
+
+
+
+</menu>
