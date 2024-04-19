@@ -17,21 +17,6 @@ This Android application was developed for the 4th IEEE International Conference
 - **Venue**: Navigate through the conference venue with an interactive map displaying important locations.
 - **Feedback**: Provide feedback and evaluations for sessions attended to help improve future conferences.
 
-## Screenshots
-
-- ![Screenshot 1](https://i.ibb.co/LvZn2dz/Screenshot-20240419-211606-i-PACT.png)
-- ![Screenshot 2](https://i.ibb.co/8NsQcPf/Screenshot-20240419-212042-i-PACT.png)
-- ![Screenshot 3](https://i.ibb.co/2vQJ0qq/Screenshot-20240419-211928-i-PACT.png)
-- ![Screenshot 4](https://i.ibb.co/kg3zWxX/Screenshot-20240419-211946-i-PACT.png)
-- ![Screenshot 5](https://i.ibb.co/8NsQcPf/Screenshot-20240419-212042-i-PACT.png)
-<!-- Add additional screenshots as needed -->
-
-## Installation
-
-1. **Clone Repository**: Clone this repository to your local machine using `git clone <repository-url>`.
-2. **Open in Android Studio**: Open the project in Android Studio IDE.
-3. **Run on Emulator or Device**: Build and run the app on an emulator or physical device.
-
 ## Dependencies
 
 - Android SDK: The app is built using the Android Software Development Kit (SDK).
