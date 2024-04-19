@@ -2,7 +2,7 @@
 
 # i-PACT Conference App
 
-Website: <https://vit.ac.in/ipact/>
+- Website: <https://vit.ac.in/ipact/>
 
 This Android application was developed for the 4th IEEE International Conference on "Innovations in Power & Advanced Computing Technologies" (i-PACT2023) hosted by SELECT School of VIT Vellore. The app serves as a comprehensive information hub for conference participants, providing easy access to event details, schedules, speakers, and more.
 
