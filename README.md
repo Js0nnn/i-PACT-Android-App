@@ -1,8 +1,10 @@
+Certainly! Here's the corrected README file with the typo fixed and some minor improvements for clarity:
+
 ---
 
 # i-PACT Conference App
 
-- Website: <https://vit.ac.in/ipact/>
+- Website: [i-PACT Conference Website](https://vit.ac.in/ipact/)
 
 This Android application was developed for the 4th IEEE International Conference on "Innovations in Power & Advanced Computing Technologies" (i-PACT2023) hosted by SELECT School of VIT Vellore. The app serves as a comprehensive information hub for conference participants, providing easy access to event details, schedules, speakers, and more.
 
@@ -17,15 +19,11 @@ This Android application was developed for the 4th IEEE International Conference
 
 ## Screenshots
 
-<https://i.ibb.co/LvZn2dz/Screenshot-20240419-211606-i-PACT.png>
-
-<https://i.ibb.co/BzP2SSg/Screenshot-20240419-211839-i-PACT.png>
-
-<https://i.ibb.co/2vQJ0qq/Screenshot-20240419-211928-i-PACT.png>
-
-<https://i.ibb.co/kg3zWxX/Screenshot-20240419-211946-i-PACT.png>
-
-<https://i.ibb.co/8NsQcPf/Screenshot-20240419-212042-i-PACT.png>
+- ![Screenshot 1](https://i.ibb.co/LvZn2dz/Screenshot-20240419-211606-i-PACT.png)
+- ![Screenshot 2](https://i.ibb.co/BzP2SSg/Screenshot-20240419-211839-i-PACT.png)
+- ![Screenshot 3](https://i.ibb.co/2vQJ0qq/Screenshot-20240419-211928-i-PACT.png)
+- ![Screenshot 4](https://i.ibb.co/kg3zWxX/Screenshot-20240419-211946-i-PACT.png)
+- ![Screenshot 5](https://i.ibb.co/8NsQcPf/Screenshot-20240419-212042-i-PACT.png)
 <!-- Add additional screenshots as needed -->
 
 ## Installation
@@ -44,7 +42,7 @@ This Android application was developed for the 4th IEEE International Conference
 
 - Upon launching the app, users are greeted with a welcome screen and prompted to log in or sign up.
 - After logging in, users can navigate through the various sections of the app to access conference information.
-- Users can customize their experience by favoriting sessions and papers and view their alloted time ok presentation.
+- Users can customize their experience by favoriting sessions and papers and view their allotted time of presentation.
 
 ## Credits
 
@@ -52,8 +50,9 @@ This Android application was developed for the 4th IEEE International Conference
 - Special thanks to the organizing committee of i-PACT2023 for their support and collaboration.
 
 ## Note
-- The app for now has only static data, therefore in future the app will be converted to fully dynamic for upcoming conferences
-- You can download the current app here: <https://play.google.com/store/apps/details?id=com.ipact.ipact_23&pcampaignid=web_share>
+- The app currently contains static data; future versions will feature fully dynamic content for upcoming conferences.
+- You can download the current app from [Google Play Store](https://play.google.com/store/apps/details?id=com.ipact.ipact_23&pcampaignid=web_share).
+
 ---
 
-Feel free to customize the README file with additional details, such as build instructions, usage guidelines, and acknowledgments.
+Let me know if you need any more adjustments or if there's anything else I can assist you with!
