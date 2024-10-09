@@ -30,8 +30,6 @@ This Android application was developed for the 4th IEEE International Conference
 - Users can customize their experience by favoriting sessions and papers and view their allotted time of presentation.
 
 ## Credits
-
-- Developed by B. Jaison Edward for the SELECT School of VIT Vellore.
 - Special thanks to the organizing committee of i-PACT2023 for their support and collaboration.
 
 ## Note
